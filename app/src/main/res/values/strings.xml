@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Patter</string>
+    <string name="writeText">Bitte Text eintippen</string>
+    <string name="say">Sprich!</string>
+
+</resources>
